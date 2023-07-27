@@ -1,0 +1,12 @@
+tweepy
+numpy
+pandas
+matplotlib
+textblob
+sklearn
+emoji
+re
+string
+nltk
+flask
+os
